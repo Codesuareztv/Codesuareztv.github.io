@@ -11,7 +11,7 @@
 .menu-item-has-children:after{border-bottom-color: #de1212 }}
 ::selection{background-color: #de1212 ;color:#fff}
 ::-moz-selection{background-color: #de1212 ;color:#fff}
-/*(Body Background)*/body{background-color: #141414 }
+/*(Body Background)*/body{background-color: #1a191f }
 /*(Text Color)*/body{color: #818083 }
 /*(Links Color)*/a,.ShareList.Count .numbr{color: #fff }
 /*(Titles - Color)*/.Top>.Title,.Title.Top,.comment-reply-title,#email-notes,.Description h1,.Description h2,.Description h3,.Description h4,.Description h5,.Description h6,.Description legend{color: #fff }
